@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "55011AEBD444630C0E9DF47BD2E18FDBBDCC285D" : 9223372036854775807,
+    "6F2B10FB6B44CA69C58E014D8E5B3B39E1691D30" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "07964188-614D-48E7-AB3A-D00DB1374FE5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "55011AEBD444630C0E9DF47BD2E18FDBBDCC285D" : "HelloOS\/makeusingwcdb\/wcdbchiper\/sqlcipher\/",
+    "6F2B10FB6B44CA69C58E014D8E5B3B39E1691D30" : "HelloOS\/makeusingwcdb\/wcdbchiper\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "makeusingwcdb",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "makeusingwcdb\/makeusingwcdb.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Tencent\/sqlcipher.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "55011AEBD444630C0E9DF47BD2E18FDBBDCC285D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Tencent\/wcdb.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6F2B10FB6B44CA69C58E014D8E5B3B39E1691D30"
+    }
+  ]
+}
